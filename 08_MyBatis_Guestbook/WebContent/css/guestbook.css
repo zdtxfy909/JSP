@@ -1,0 +1,14 @@
+	#container {
+		width: 512px; margin: auto;
+	}
+	#container h2 { text-align: center; }
+	#container p { text-align: right; }
+	#container table { 
+		width: 100%;
+		border-collapse: collapse;
+	}
+	#container th { background-color: #9cd; }
+	#container td, #container th { 
+		border : 1px solid #888; height: 1.5em;
+	}
+	.center { text-align: center; }
